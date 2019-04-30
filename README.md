@@ -1,2 +1,0 @@
-# ReactInfiniteScrollbar
-Created with CodeSandbox
